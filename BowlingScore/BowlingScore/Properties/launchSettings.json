@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BowlingScore": {
+      "commandName": "Project",
+      "commandLineArgs": "5 5 6 3 10 7 2 8 2 5 5 0 6 0 7 2 2 10 4 4"
+    }
+  }
+}
